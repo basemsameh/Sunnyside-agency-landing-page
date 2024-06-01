@@ -47,8 +47,8 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 ## Links
 
-**GitHub-Repo**: [repo](https://github.com/basemsameh/Sunnyside-agency-landing-page.git)
-**Demo**: [demo](https://basemsameh.github.io/Sunnyside-agency-landing-page/)
+- **GitHub-Repo**: [repo](https://github.com/basemsameh/Sunnyside-agency-landing-page.git)
+- **Demo**: [demo](https://basemsameh.github.io/Sunnyside-agency-landing-page/)
 
 ## Author
 
